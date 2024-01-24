@@ -1,0 +1,14 @@
+D:\BCA\5th Semester\C#\01b\bin\Debug\net7.0\01B.exe
+D:\BCA\5th Semester\C#\01b\bin\Debug\net7.0\01B.deps.json
+D:\BCA\5th Semester\C#\01b\bin\Debug\net7.0\01B.runtimeconfig.json
+D:\BCA\5th Semester\C#\01b\bin\Debug\net7.0\01B.dll
+D:\BCA\5th Semester\C#\01b\bin\Debug\net7.0\01B.pdb
+D:\BCA\5th Semester\C#\01b\obj\Debug\net7.0\01B.GeneratedMSBuildEditorConfig.editorconfig
+D:\BCA\5th Semester\C#\01b\obj\Debug\net7.0\01B.AssemblyInfoInputs.cache
+D:\BCA\5th Semester\C#\01b\obj\Debug\net7.0\01B.AssemblyInfo.cs
+D:\BCA\5th Semester\C#\01b\obj\Debug\net7.0\01B.csproj.CoreCompileInputs.cache
+D:\BCA\5th Semester\C#\01b\obj\Debug\net7.0\01B.dll
+D:\BCA\5th Semester\C#\01b\obj\Debug\net7.0\refint\01B.dll
+D:\BCA\5th Semester\C#\01b\obj\Debug\net7.0\01B.pdb
+D:\BCA\5th Semester\C#\01b\obj\Debug\net7.0\01B.genruntimeconfig.cache
+D:\BCA\5th Semester\C#\01b\obj\Debug\net7.0\ref\01B.dll

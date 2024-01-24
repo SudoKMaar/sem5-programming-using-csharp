@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\BCA\\5th Semester\\C#\\02a\\02A.csproj": {}
+  },
+  "projects": {
+    "D:\\BCA\\5th Semester\\C#\\02a\\02A.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BCA\\5th Semester\\C#\\02a\\02A.csproj",
+        "projectName": "02A",
+        "projectPath": "D:\\BCA\\5th Semester\\C#\\02a\\02A.csproj",
+        "packagesPath": "C:\\Users\\Abhishek Kumar\\.nuget\\packages\\",
+        "outputPath": "D:\\BCA\\5th Semester\\C#\\02a\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Abhishek Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
